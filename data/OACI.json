@@ -1,0 +1,1910 @@
+[
+  {
+    "Code": "LFXX",
+    "Lieu": "Inconnu"
+  },
+  {
+    "Code": "LSTA",
+    "Lieu": "RARON"
+  },
+  {
+    "Code": "LFOI",
+    "Lieu": "ABBEVILLE"
+  },
+  {
+    "Code": "LFBA",
+    "Lieu": "AGEN / LA GARENNE"
+  },
+  {
+    "Code": "LFDA",
+    "Lieu": "AIRE-SUR-L'ADOUR"
+  },
+  {
+    "Code": "LFMA",
+    "Lieu": "AIX-LES-MILLES"
+  },
+  {
+    "Code": "LFKJ",
+    "Lieu": "AJACCIO / CAMPO DELL'ORO"
+  },
+  {
+    "Code": "LFAQ",
+    "Lieu": "ALBERT / BRAY"
+  },
+  {
+    "Code": "LFKA",
+    "Lieu": "ALBERTVILLE"
+  },
+  {
+    "Code": "LFCI",
+    "Lieu": "ALBI / LE SEQUESTRE"
+  },
+  {
+    "Code": "LFOF",
+    "Lieu": "ALENCON / VALFRAMBERT"
+  },
+  {
+    "Code": "LFMS",
+    "Lieu": "ALES / DEAUX"
+  },
+  {
+    "Code": "LFXA",
+    "Lieu": "AMBERIEU"
+  },
+  {
+    "Code": "LFHT",
+    "Lieu": "AMBERT-LE-POYET"
+  },
+  {
+    "Code": "LFEF",
+    "Lieu": "AMBOISE / DIERRE"
+  },
+  {
+    "Code": "LFAY",
+    "Lieu": "AMIENS / GLISY"
+  },
+  {
+    "Code": "LFFI",
+    "Lieu": "ANCENIS"
+  },
+  {
+    "Code": "LFCD",
+    "Lieu": "ANDERNOS-LES-BAINS"
+  },
+  {
+    "Code": "LFRA",
+    "Lieu": "ANGERS / AVRILLE"
+  },
+  {
+    "Code": "LFBU",
+    "Lieu": "ANGOULEME / BRIE-CHAMPNIERS"
+  },
+  {
+    "Code": "LFLP",
+    "Lieu": "ANNECY / MEYTHET"
+  },
+  {
+    "Code": "LFLI",
+    "Lieu": "ANNEMASSE"
+  },
+  {
+    "Code": "LFGD",
+    "Lieu": "ARBOIS"
+  },
+  {
+    "Code": "LFCH",
+    "Lieu": "ARCACHON / LA TESTE DE BUCH"
+  },
+  {
+    "Code": "LFAJ",
+    "Lieu": "ARGENTAN"
+  },
+  {
+    "Code": "LFEG",
+    "Lieu": "ARGENTON-SUR-CREUSE"
+  },
+  {
+    "Code": "LFQD",
+    "Lieu": "ARRAS / ROCLINCOURT"
+  },
+  {
+    "Code": "LFNJ",
+    "Lieu": "ASPRES-SUR-BUECH"
+  },
+  {
+    "Code": "LFHO",
+    "Lieu": "AUBENAS-VALS-LANAS"
+  },
+  {
+    "Code": "LFJF",
+    "Lieu": "AUBENASSON"
+  },
+  {
+    "Code": "LFEH",
+    "Lieu": "AUBIGNY-SUR-NERE"
+  },
+  {
+    "Code": "LFDH",
+    "Lieu": "AUCH / LAMOTHE"
+  },
+  {
+    "Code": "LFLW",
+    "Lieu": "AURILLAC"
+  },
+  {
+    "Code": "LFQF",
+    "Lieu": "AUTUN / BELLEVUE"
+  },
+  {
+    "Code": "LFLA",
+    "Lieu": "AUXERRE / BRANCHES"
+  },
+  {
+    "Code": "LFGE",
+    "Lieu": "AVALLON"
+  },
+  {
+    "Code": "LFMV",
+    "Lieu": "AVIGNON / CAUMONT"
+  },
+  {
+    "Code": "LFNT",
+    "Lieu": "AVIGNON-PUJAUT"
+  },
+  {
+    "Code": "LFOA",
+    "Lieu": "AVORD"
+  },
+  {
+    "Code": "LFRW",
+    "Lieu": "AVRANCHES / LE VAL ST-PERE"
+  },
+  {
+    "Code": "LFCB",
+    "Lieu": "BAGNERES DE LUCHON"
+  },
+  {
+    "Code": "LFAO",
+    "Lieu": "BAGNOLES DE L'ORNE / COUTERNE'"
+  },
+  {
+    "Code": "LFFL",
+    "Lieu": "BAILLEAU-ARMENONVILLE"
+  },
+  {
+    "Code": "LFSB",
+    "Lieu": "BALE / MULHOUSE"
+  },
+  {
+    "Code": "LFMR",
+    "Lieu": "BARCELONNETTE / ST-PONS"
+  },
+  {
+    "Code": "LFEU",
+    "Lieu": "BAR-LE-DUC /  LES HAUTS DE CHEE"
+  },
+  {
+    "Code": "LFFR",
+    "Lieu": "BAR-SUR-SEINE"
+  },
+  {
+    "Code": "LFKB",
+    "Lieu": "BASTIA / PORETTA"
+  },
+  {
+    "Code": "LFGF",
+    "Lieu": "BEAUNE / CHALLANGES"
+  },
+  {
+    "Code": "LFOB",
+    "Lieu": "BEAUVAIS / TILLE"
+  },
+  {
+    "Code": "LFNX",
+    "Lieu": "BEDARIEUX-LA-TOUR-SUR-ORB"
+  },
+  {
+    "Code": "LFGG",
+    "Lieu": "BELFORT / CHAUX"
+  },
+  {
+    "Code": "LFSQ",
+    "Lieu": "BELFORT / FONTAINE"
+  },
+  {
+    "Code": "LFHN",
+    "Lieu": "BELLEGARDE / VOUVRAY"
+  },
+  {
+    "Code": "LFEA",
+    "Lieu": "BELLE-ILE"
+  },
+  {
+    "Code": "LFHW",
+    "Lieu": "BELLEVILLE-VILLIE-MORGON"
+  },
+  {
+    "Code": "LFKY",
+    "Lieu": "BELLEY-PEYRIEU"
+  },
+  {
+    "Code": "LFIB",
+    "Lieu": "BELVES-ST-PARDOUX"
+  },
+  {
+    "Code": "LFAM",
+    "Lieu": "BERCK-SUR-MER"
+  },
+  {
+    "Code": "LFBE",
+    "Lieu": "BERGERAC / ROUMANIERE"
+  },
+  {
+    "Code": "LFPD",
+    "Lieu": "BERNAY / ST-MARTIN"
+  },
+  {
+    "Code": "LFNR",
+    "Lieu": "BERRE-LA-FARE"
+  },
+  {
+    "Code": "LFQM",
+    "Lieu": "BESANCON-LA-VEZE"
+  },
+  {
+    "Code": "LFSA",
+    "Lieu": "BESANCON / THISE"
+  },
+  {
+    "Code": "LFPF",
+    "Lieu": "BEYNES / THIVERVAL"
+  },
+  {
+    "Code": "LFMU",
+    "Lieu": "BEZIERS / VIAS"
+  },
+  {
+    "Code": "LFBZ",
+    "Lieu": "BIARRITZ-BAYONNE / ANGLET"
+  },
+  {
+    "Code": "LFWC",
+    "Lieu": "BISCAROSSE (C.E.L.)"
+  },
+  {
+    "Code": "LFBS",
+    "Lieu": "BISCAROSSE / PARENTIS"
+  },
+  {
+    "Code": "LFOQ",
+    "Lieu": "BLOIS / LE BREUIL"
+  },
+  {
+    "Code": "LFCS",
+    "Lieu": "BORDEAUX / LEOGNAN SAUCATS"
+  },
+  {
+    "Code": "LFBD",
+    "Lieu": "BORDEAUX / MERIGNAC"
+  },
+  {
+    "Code": "LFDO",
+    "Lieu": "BORDEAUX / SOUGE"
+  },
+  {
+    "Code": "LFDY",
+    "Lieu": "BORDEAUX / YVRAC"
+  },
+  {
+    "Code": "LFHS",
+    "Lieu": "BOURG / CEYZERIAT"
+  },
+  {
+    "Code": "LFLD",
+    "Lieu": "BOURGES"
+  },
+  {
+    "Code": "LFRB",
+    "Lieu": "BREST / GUIPAVAS"
+  },
+  {
+    "Code": "LFPY",
+    "Lieu": "BRETIGNY-SUR-ORGE"
+  },
+  {
+    "Code": "LFEI",
+    "Lieu": "BRIARE / CHATILLON"
+  },
+  {
+    "Code": "LFFN",
+    "Lieu": "BRIENNE-LE-CHATEAU"
+  },
+  {
+    "Code": "LFHR",
+    "Lieu": "BRIOUDE-BEAUMONT"
+  },
+  {
+    "Code": "LFBV",
+    "Lieu": "BRIVE / LA ROCHE"
+  },
+  {
+    "Code": "LFYH",
+    "Lieu": "BROYE-LES-PESMES"
+  },
+  {
+    "Code": "LFFB",
+    "Lieu": "BUNO-BONNEVAUX"
+  },
+  {
+    "Code": "LFRK",
+    "Lieu": "CAEN / CARPIQUET"
+  },
+  {
+    "Code": "LFCC",
+    "Lieu": "CAHORS / LALBENQUE"
+  },
+  {
+    "Code": "LFAC",
+    "Lieu": "CALAIS / DUNKERQUE"
+  },
+  {
+    "Code": "LFKC",
+    "Lieu": "CALVI / STE CATHERINE"
+  },
+  {
+    "Code": "LFQI",
+    "Lieu": "CAMBRAI / EPINOY"
+  },
+  {
+    "Code": "LFYG",
+    "Lieu": "CAMBRAI / NIERGNIES"
+  },
+  {
+    "Code": "LFHK",
+    "Lieu": "CAMP DE CANJUERS"
+  },
+  {
+    "Code": "LFMD",
+    "Lieu": "CANNES / MANDELIEU"
+  },
+  {
+    "Code": "LFTG",
+    "Lieu": "CANNES PALM-BEACH"
+  },
+  {
+    "Code": "LFMK",
+    "Lieu": "CARCASSONNE / SALVAZA"
+  },
+  {
+    "Code": "LFNH",
+    "Lieu": "CARPENTRAS"
+  },
+  {
+    "Code": "LFIG",
+    "Lieu": "CASSAGNES-BEGONHES"
+  },
+  {
+    "Code": "LFMW",
+    "Lieu": "CASTELNAUDARY / VILLENEUVE"
+  },
+  {
+    "Code": "LFDQ",
+    "Lieu": "CASTELNAU-MAGNOAC"
+  },
+  {
+    "Code": "LFCX",
+    "Lieu": "CASTELSARRASIN / MOISSAC"
+  },
+  {
+    "Code": "LFCK",
+    "Lieu": "CASTRES / MAZAMET"
+  },
+  {
+    "Code": "LFBC",
+    "Lieu": "CAZAUX"
+  },
+  {
+    "Code": "LFJH",
+    "Lieu": "CAZERES / PALAMINY"
+  },
+  {
+    "Code": "LFIH",
+    "Lieu": "CHALAIS"
+  },
+  {
+    "Code": "LFLH",
+    "Lieu": "CHALON / CHAMPFORGEUIL"
+  },
+  {
+    "Code": "LFQK",
+    "Lieu": "CHALONS / ECURY-SUR-COOLE"
+  },
+  {
+    "Code": "LFOK",
+    "Lieu": "CHALONS / VATRY"
+  },
+  {
+    "Code": "LFLB",
+    "Lieu": "CHAMBERY"
+  },
+  {
+    "Code": "LFLE",
+    "Lieu": "Challes"
+  },
+  {
+    "Code": "LFGX",
+    "Lieu": "CHAMPAGNOLE / CROTENAY"
+  },
+  {
+    "Code": "LFQV",
+    "Lieu": "CHARLEVILLE / MEZIERES"
+  },
+  {
+    "Code": "LFOR",
+    "Lieu": "CHARTRES / CHAMPHOL"
+  },
+  {
+    "Code": "LFMX",
+    "Lieu": "CHATEAU-ARNOUX / ST-AUBAN"
+  },
+  {
+    "Code": "LFTQ",
+    "Lieu": "CHATEAUBRIANT-POUANCE"
+  },
+  {
+    "Code": "LFOC",
+    "Lieu": "CHATEAUDUN"
+  },
+  {
+    "Code": "LFFU",
+    "Lieu": "CHATEAUNEUF-SUR-CHER"
+  },
+  {
+    "Code": "LFLX",
+    "Lieu": "CHATEAUROUX / DEOLS"
+  },
+  {
+    "Code": "LFEJ",
+    "Lieu": "CHATEAUROUX / VILLERS"
+  },
+  {
+    "Code": "LFFH",
+    "Lieu": "CHATEAU-THIERRY-BELLEAU"
+  },
+  {
+    "Code": "LFCA",
+    "Lieu": "CHATELLERAULT/ TARGE"
+  },
+  {
+    "Code": "LFQH",
+    "Lieu": "CHATILLON-SUR-SEINE"
+  },
+  {
+    "Code": "LFSY",
+    "Lieu": "CHAUMONT-LA-VENDUE"
+  },
+  {
+    "Code": "LFJA",
+    "Lieu": "CHAUMONT / SEMOUTIERS"
+  },
+  {
+    "Code": "LFKW",
+    "Lieu": "CHAUVIGNY"
+  },
+  {
+    "Code": "LFPX",
+    "Lieu": "CHAVENAY / VILLEPREUX"
+  },
+  {
+    "Code": "LFPH",
+    "Lieu": "CHELLES / LE PIN"
+  },
+  {
+    "Code": "LFRC",
+    "Lieu": "CHERBOURG / MAUPERTUS"
+  },
+  {
+    "Code": "LFOU",
+    "Lieu": "CHOLET / LE PONTREAU"
+  },
+  {
+    "Code": "LFJC",
+    "Lieu": "CLAMECY"
+  },
+  {
+    "Code": "LFLC",
+    "Lieu": "CLERMONT-FERRAND / AULNAT"
+  },
+  {
+    "Code": "LFBG",
+    "Lieu": "COGNAC / CHATEAU BERNARD"
+  },
+  {
+    "Code": "LFGA",
+    "Lieu": "COLMAR / HOUSSEN"
+  },
+  {
+    "Code": "LFSC",
+    "Lieu": "COLMAR / MEYENHEIM"
+  },
+  {
+    "Code": "LFAD",
+    "Lieu": "COMPIEGNE / MARGNY"
+  },
+  {
+    "Code": "LFDZ",
+    "Lieu": "CONDAT-SUR-VEZERE"
+  },
+  {
+    "Code": "LFAN",
+    "Lieu": "CONDE-SUR-NOIREAU"
+  },
+  {
+    "Code": "LFID",
+    "Lieu": "CONDOM-VALENCE-SUR-BAISE"
+  },
+  {
+    "Code": "LFJD",
+    "Lieu": "CORLIER"
+  },
+  {
+    "Code": "LFKT",
+    "Lieu": "CORTE"
+  },
+  {
+    "Code": "LFGH",
+    "Lieu": "COSNE-SUR-LOIRE"
+  },
+  {
+    "Code": "LFDV",
+    "Lieu": "COUHE / VERAC"
+  },
+  {
+    "Code": "LFPK",
+    "Lieu": "COULOMMIERS / VOISINS"
+  },
+  {
+    "Code": "LFLJ",
+    "Lieu": "COURCHEVEL"
+  },
+  {
+    "Code": "LFPC",
+    "Lieu": "CREIL"
+  },
+  {
+    "Code": "LFIC",
+    "Lieu": "CROSS CORSEN"
+  },
+  {
+    "Code": "LFIE",
+    "Lieu": "CROSS ETEL"
+  },
+  {
+    "Code": "LFIJ",
+    "Lieu": "CROSS JOBOURG"
+  },
+  {
+    "Code": "LFIN",
+    "Lieu": "CROSS GRIS-NEZ"
+  },
+  {
+    "Code": "LFJG",
+    "Lieu": "CROSS LA GARDE"
+  },
+  {
+    "Code": "LFTF",
+    "Lieu": "CUERS / PIERREFEU"
+  },
+  {
+    "Code": "LFYD",
+    "Lieu": "DAMBLAIN"
+  },
+  {
+    "Code": "LFBY",
+    "Lieu": "DAX / SEYRESSE"
+  },
+  {
+    "Code": "LFRG",
+    "Lieu": "DEAUVILLE / ST-GATIEN"
+  },
+  {
+    "Code": "LFAB",
+    "Lieu": "DIEPPE / ST AUBIN"
+  },
+  {
+    "Code": "LFQZ",
+    "Lieu": "DIEUZE-GUEBLANGE"
+  },
+  {
+    "Code": "LFGI",
+    "Lieu": "DIJON / DAROIS"
+  },
+  {
+    "Code": "LFSD",
+    "Lieu": "DIJON / LONGVIC"
+  },
+  {
+    "Code": "LFEB",
+    "Lieu": "DINAN / TRELIVAN"
+  },
+  {
+    "Code": "LFRD",
+    "Lieu": "DINARD / PLEURTUIT-ST-MALO"
+  },
+  {
+    "Code": "LFGJ",
+    "Lieu": "DOLE / TAVAUX"
+  },
+  {
+    "Code": "LFGR",
+    "Lieu": "DONCOURT-LES-CONFLANS"
+  },
+  {
+    "Code": "LFON",
+    "Lieu": "DREUX / VERNOUILLET"
+  },
+  {
+    "Code": "LFAK",
+    "Lieu": "DUNKERQUE / GHYVELDE"
+  },
+  {
+    "Code": "LFDE",
+    "Lieu": "EGLETONS"
+  },
+  {
+    "Code": "LFFE",
+    "Lieu": "ENGHIEN-MOISSELLES"
+  },
+  {
+    "Code": "LFSW",
+    "Lieu": "EPERNAY / PLIVOT"
+  },
+  {
+    "Code": "LFSE",
+    "Lieu": "EPINAL / DOGNEVILLE"
+  },
+  {
+    "Code": "LFSG",
+    "Lieu": "EPINAL / MIRECOURT"
+  },
+  {
+    "Code": "LFQE",
+    "Lieu": "ETAIN / ROUVRES"
+  },
+  {
+    "Code": "LFOX",
+    "Lieu": "ETAMPES / MONDESIR"
+  },
+  {
+    "Code": "LFFY",
+    "Lieu": "ETREPAGNY"
+  },
+  {
+    "Code": "LFAE",
+    "Lieu": "EU-MERS / LE TREPORT"
+  },
+  {
+    "Code": "LFOE",
+    "Lieu": "EVREUX / FAUVILLE"
+  },
+  {
+    "Code": "LFAS",
+    "Lieu": "FALAISE-MONTS-D'ERAINES'"
+  },
+  {
+    "Code": "LFMF",
+    "Lieu": "FAYENCE"
+  },
+  {
+    "Code": "LFLZ",
+    "Lieu": "FEURS / CHAMBEON"
+  },
+  {
+    "Code": "LFKF",
+    "Lieu": "FIGARI / SUD CORSE"
+  },
+  {
+    "Code": "LFCF",
+    "Lieu": "FIGEAC / LIVERNON"
+  },
+  {
+    "Code": "LFOG",
+    "Lieu": "FLERS / ST-PAUL"
+  },
+  {
+    "Code": "LFNO",
+    "Lieu": "FLORAC-STE-ENIMIE"
+  },
+  {
+    "Code": "LFFK",
+    "Lieu": "FONTENAY-LE-COMTE"
+  },
+  {
+    "Code": "LFPQ",
+    "Lieu": "FONTENAY-TRESIGNY"
+  },
+  {
+    "Code": "LFTU",
+    "Lieu": "FREJUS / ST RAPHAEL"
+  },
+  {
+    "Code": "LFDX",
+    "Lieu": "FUMEL / MONTAYRAL"
+  },
+  {
+    "Code": "LFDG",
+    "Lieu": "GAILLAC / LISLE-SUR-TARN"
+  },
+  {
+    "Code": "LFNA",
+    "Lieu": "GAP / TALLARD"
+  },
+  {
+    "Code": "LFKG",
+    "Lieu": "GHISONACCIA-ALZITONE"
+  },
+  {
+    "Code": "LFRF",
+    "Lieu": "GRANVILLE"
+  },
+  {
+    "Code": "LFCQ",
+    "Lieu": "GRAULHET / MONTDRAGON"
+  },
+  {
+    "Code": "LFEV",
+    "Lieu": "GRAY-ST-ADRIEN"
+  },
+  {
+    "Code": "LFLG",
+    "Lieu": "GRENOBLE / LE VERSOUD"
+  },
+  {
+    "Code": "LFLS",
+    "Lieu": "GRENOBLE / ST-GEOIRS"
+  },
+  {
+    "Code": "LFCE",
+    "Lieu": "GUERET / ST-LAURENT"
+  },
+  {
+    "Code": "LFES",
+    "Lieu": "GUISCRIFF-SCAER"
+  },
+  {
+    "Code": "LFSH",
+    "Lieu": "HAGUENAU"
+  },
+  {
+    "Code": "LFTH",
+    "Lieu": "HYERES / LE PALYVESTRE"
+  },
+  {
+    "Code": "LFEY",
+    "Lieu": "ILE D'YEU / LE GRAND PHARE'"
+  },
+  {
+    "Code": "LFHA",
+    "Lieu": "ISSOIRE / LE BROC"
+  },
+  {
+    "Code": "LFEK",
+    "Lieu": "ISSOUDUN / LE FAY"
+  },
+  {
+    "Code": "LFMI",
+    "Lieu": "ISTRES / LE TUBE"
+  },
+  {
+    "Code": "LFIX",
+    "Lieu": "ITXASSOU"
+  },
+  {
+    "Code": "LFGK",
+    "Lieu": "JOIGNY"
+  },
+  {
+    "Code": "LFFJ",
+    "Lieu": "JOINVILLE-MUSSEY"
+  },
+  {
+    "Code": "LFCJ",
+    "Lieu": "JONZAC / NEULLES"
+  },
+  {
+    "Code": "LFQX",
+    "Lieu": "JUVANCOURT"
+  },
+  {
+    "Code": "LFRE",
+    "Lieu": "LA BAULE / ESCOUBLAC"
+  },
+  {
+    "Code": "LFFQ",
+    "Lieu": "LA FERTE-ALAIS"
+  },
+  {
+    "Code": "LFFG",
+    "Lieu": "LA FERTE-GAUCHER"
+  },
+  {
+    "Code": "LFAL",
+    "Lieu": "LA FLECHE / THOREE-LES-PINS"
+  },
+  {
+    "Code": "LFTN",
+    "Lieu": "LA GRAND' COMBE'"
+  },
+  {
+    "Code": "LFOL",
+    "Lieu": "L'AIGLE / ST-MICHEL'"
+  },
+  {
+    "Code": "LFHU",
+    "Lieu": "L'ALPE D\\'HUEZ'"
+  },
+  {
+    "Code": "LFNM",
+    "Lieu": "LA MOLE"
+  },
+  {
+    "Code": "LFMG",
+    "Lieu": "LA MONTAGNE NOIRE"
+  },
+  {
+    "Code": "LFFM",
+    "Lieu": "LA MOTTE-BEUVRON"
+  },
+  {
+    "Code": "LFJE",
+    "Lieu": "LA MOTTE / CHALENCON"
+  },
+  {
+    "Code": "LFRJ",
+    "Lieu": "LANDIVISIAU"
+  },
+  {
+    "Code": "LFHL",
+    "Lieu": "LANGOGNE / L'ESPERON'"
+  },
+  {
+    "Code": "LFSU",
+    "Lieu": "LANGRES / ROLAMPONT"
+  },
+  {
+    "Code": "LFRO",
+    "Lieu": "LANNION / SERVEL"
+  },
+  {
+    "Code": "LFRL",
+    "Lieu": "LANVEOC / POULMIC"
+  },
+  {
+    "Code": "LFAF",
+    "Lieu": "LAON / CHAMBRY"
+  },
+  {
+    "Code": "LFHX",
+    "Lieu": "LAPALISSE-PERIGNY"
+  },
+  {
+    "Code": "LFDR",
+    "Lieu": "LA REOLE / FLOUDES"
+  },
+  {
+    "Code": "LFBH",
+    "Lieu": "LA ROCHELLE / LALEU"
+  },
+  {
+    "Code": "LFRI",
+    "Lieu": "LA ROCHE-SUR-YON / LES AJONCS"
+  },
+  {
+    "Code": "LFKP",
+    "Lieu": "LA TOUR-DU-PIN-CESSIEU"
+  },
+  {
+    "Code": "LFOV",
+    "Lieu": "LAVAL / ENTRAMMES"
+  },
+  {
+    "Code": "LFEL",
+    "Lieu": "LE BLANC"
+  },
+  {
+    "Code": "LFMQ",
+    "Lieu": "LE CASTELLET"
+  },
+  {
+    "Code": "LFOH",
+    "Lieu": "LE HAVRE / OCTEVILLE"
+  },
+  {
+    "Code": "LFOY",
+    "Lieu": "LE HAVRE / ST-ROMAIN"
+  },
+  {
+    "Code": "LFMC",
+    "Lieu": "LE LUC / LE CANNET"
+  },
+  {
+    "Code": "LFRM",
+    "Lieu": "LE MANS / ARNAGE"
+  },
+  {
+    "Code": "LFNZ",
+    "Lieu": "LE MAZET-DE-ROMANIN"
+  },
+  {
+    "Code": "LFQL",
+    "Lieu": "LENS / BENIFONTAINE"
+  },
+  {
+    "Code": "LFPP",
+    "Lieu": "LE PLESSIS-BELLEVILLE"
+  },
+  {
+    "Code": "LFHP",
+    "Lieu": "LE PUY / LOUDES"
+  },
+  {
+    "Code": "LFXU",
+    "Lieu": "LES MUREAUX"
+  },
+  {
+    "Code": "LFDU",
+    "Lieu": "LESPARRE / ST LAURENT MEDOC"
+  },
+  {
+    "Code": "LFOO",
+    "Lieu": "LES SABLES D'OLONNE / TALMONT'"
+  },
+  {
+    "Code": "LFOM",
+    "Lieu": "LESSAY"
+  },
+  {
+    "Code": "LFAT",
+    "Lieu": "LE TOUQUET / PARIS-PLAGE"
+  },
+  {
+    "Code": "LFXH",
+    "Lieu": "LE VALDAHON"
+  },
+  {
+    "Code": "LFMZ",
+    "Lieu": "LEZIGNAN-CORBIERES"
+  },
+  {
+    "Code": "LFDI",
+    "Lieu": "LIBOURNE / ARTIGUES DE LUSSAC"
+  },
+  {
+    "Code": "LFQQ",
+    "Lieu": "LILLE / LESQUIN"
+  },
+  {
+    "Code": "LFQO",
+    "Lieu": "LILLE / MARCQ-EN-BAROEUL"
+  },
+  {
+    "Code": "LFBL",
+    "Lieu": "LIMOGES / BELLEGARDE"
+  },
+  {
+    "Code": "LFPL",
+    "Lieu": "LOGNES / EMERAINVILLE"
+  },
+  {
+    "Code": "LFGS",
+    "Lieu": "LONGUYON / VILLETTE"
+  },
+  {
+    "Code": "LFGL",
+    "Lieu": "LONS-LE-SAUNIER / COURLAOUX"
+  },
+  {
+    "Code": "LFRH",
+    "Lieu": "LORIENT / LANN-BIHOUE"
+  },
+  {
+    "Code": "LFDL",
+    "Lieu": "LOUDUN"
+  },
+  {
+    "Code": "LFQC",
+    "Lieu": "LUNEVILLE / CROISMARE"
+  },
+  {
+    "Code": "LFJU",
+    "Lieu": "LURCY LEVIS"
+  },
+  {
+    "Code": "LFYL",
+    "Lieu": "LURE / MALBOIUHANS"
+  },
+  {
+    "Code": "LFSX",
+    "Lieu": "LUXEUIL / ST-SAUVEUR"
+  },
+  {
+    "Code": "LFKL",
+    "Lieu": "LYON-BRINDAS"
+  },
+  {
+    "Code": "LFLY",
+    "Lieu": "LYON / BRON"
+  },
+  {
+    "Code": "LFHJ",
+    "Lieu": "LYON / CORBAS"
+  },
+  {
+    "Code": "LFLL",
+    "Lieu": "LYON / SATOLAS"
+  },
+  {
+    "Code": "LFLM",
+    "Lieu": "MACON CHARNAY"
+  },
+  {
+    "Code": "LFFC",
+    "Lieu": "MANTES-CHERENCE"
+  },
+  {
+    "Code": "LFTB",
+    "Lieu": "MARIGNANE / BERRE (Hydroa�rodrome)"
+  },
+  {
+    "Code": "LFYM",
+    "Lieu": "MARIGNY-LE-GRAND"
+  },
+  {
+    "Code": "LFDM",
+    "Lieu": "MARMANDE / VIRAZEIL"
+  },
+  {
+    "Code": "LFML",
+    "Lieu": "MARSEILLE / PROVENCE"
+  },
+  {
+    "Code": "LFQJ",
+    "Lieu": "MAUBEUGE / ELESMES"
+  },
+  {
+    "Code": "LFJB",
+    "Lieu": "MAULEON"
+  },
+  {
+    "Code": "LFPE",
+    "Lieu": "MEAUX / ESBLY"
+  },
+  {
+    "Code": "LFHM",
+    "Lieu": "MEGEVE"
+  },
+  {
+    "Code": "LFPM",
+    "Lieu": "MELUN / VILLAROCHE"
+  },
+  {
+    "Code": "LFNB",
+    "Lieu": "MENDE / BRENOUX"
+  },
+  {
+    "Code": "LFKX",
+    "Lieu": "MERIBEL-BOIS DES FRAISES"
+  },
+  {
+    "Code": "LFQT",
+    "Lieu": "MERVILLE / CALONNE"
+  },
+  {
+    "Code": "LFSF",
+    "Lieu": "METZ / FRESCATY"
+  },
+  {
+    "Code": "LFJL",
+    "Lieu": "METZ-NANCY-LORRAINE"
+  },
+  {
+    "Code": "LFCM",
+    "Lieu": "MILLAU / LARZAC"
+  },
+  {
+    "Code": "LFCZ",
+    "Lieu": "MIMIZAN"
+  },
+  {
+    "Code": "LFVM",
+    "Lieu": "MIQUELON"
+  },
+  {
+    "Code": "LF_/",
+    "Lieu": "MONACO: LNMC"
+  },
+  {
+    "Code": "LFFW",
+    "Lieu": "MONTAIGU-ST-GEORGES"
+  },
+  {
+    "Code": "LFEM",
+    "Lieu": "MONTARGIS / VIMORY"
+  },
+  {
+    "Code": "LFDB",
+    "Lieu": "MONTAUBAN"
+  },
+  {
+    "Code": "LFSM",
+    "Lieu": "MONTBELIARD / COURCELLES"
+  },
+  {
+    "Code": "LFGM",
+    "Lieu": "MONTCEAU-LES-MINES / POUILLOUX"
+  },
+  {
+    "Code": "LFNC",
+    "Lieu": "MONT-DAUPHIN / ST-CREPIN"
+  },
+  {
+    "Code": "LFBM",
+    "Lieu": "MONT-DE-MARSAN"
+  },
+  {
+    "Code": "LFAR",
+    "Lieu": "MONTDIDIER"
+  },
+  {
+    "Code": "LFLQ",
+    "Lieu": "MONTELIMAR / ANCONE"
+  },
+  {
+    "Code": "LFDC",
+    "Lieu": "MONTENDRE / MARCILLAC"
+  },
+  {
+    "Code": "LFNQ",
+    "Lieu": "MONT-LOUIS-LA-QUILLANE"
+  },
+  {
+    "Code": "LFLT",
+    "Lieu": "MONTLUCON / DOMERAT"
+  },
+  {
+    "Code": "LFBK",
+    "Lieu": "MONTLUCON-GUERET"
+  },
+  {
+    "Code": "LFYK",
+    "Lieu": "MONTMEDY / MARVILLE"
+  },
+  {
+    "Code": "LFNG",
+    "Lieu": "MONTPELLIER / CANDILLARGUES"
+  },
+  {
+    "Code": "LFMT",
+    "Lieu": "MONTPELLIER / MEDITERRANEE"
+  },
+  {
+    "Code": "LFHI",
+    "Lieu": "MORESTEL"
+  },
+  {
+    "Code": "LFPU",
+    "Lieu": "MORET / EPISY"
+  },
+  {
+    "Code": "LFRU",
+    "Lieu": "MORLAIX / PLOUJEAN"
+  },
+  {
+    "Code": "LFAX",
+    "Lieu": "MORTAGNE-AU-PERCHE"
+  },
+  {
+    "Code": "LFHB",
+    "Lieu": "MOULINS / AVERMES"
+  },
+  {
+    "Code": "LFHY",
+    "Lieu": "MOULINS / MONTBEUGNY"
+  },
+  {
+    "Code": "LFXM",
+    "Lieu": "MOURMELON"
+  },
+  {
+    "Code": "LFGB",
+    "Lieu": "MULHOUSE / HABSHEIM"
+  },
+  {
+    "Code": "LFBR",
+    "Lieu": "MURET / L'HERM'"
+  },
+  {
+    "Code": "LFEX",
+    "Lieu": "NANCY-AZELOT"
+  },
+  {
+    "Code": "LFSN",
+    "Lieu": "NANCY / ESSEY"
+  },
+  {
+    "Code": "LFEZ",
+    "Lieu": "NANCY-MALZEVILLE"
+  },
+  {
+    "Code": "LFSO",
+    "Lieu": "NANCY / OCHEY"
+  },
+  {
+    "Code": "LFAI",
+    "Lieu": "NANGIS / LES LOGES"
+  },
+  {
+    "Code": "LFRS",
+    "Lieu": "NANTES / ATLANTIQUE"
+  },
+  {
+    "Code": "LFFT",
+    "Lieu": "NEUFCHATEAU / ROUCEUX"
+  },
+  {
+    "Code": "LFQG",
+    "Lieu": "NEVERS / FOURCHAMBAULT"
+  },
+  {
+    "Code": "LFMN",
+    "Lieu": "NICE / COTE D'AZUR'"
+  },
+  {
+    "Code": "LFME",
+    "Lieu": "NIMES / COURBESSAC"
+  },
+  {
+    "Code": "LFTW",
+    "Lieu": "NIMES / GARONS"
+  },
+  {
+    "Code": "LFBN",
+    "Lieu": "NIORT / SOUCHE"
+  },
+  {
+    "Code": "LFCN",
+    "Lieu": "NOGARO"
+  },
+  {
+    "Code": "LFGZ",
+    "Lieu": "NUITS-ST-GEORGES"
+  },
+  {
+    "Code": "LFCO",
+    "Lieu": "OLORON / HERRERE"
+  },
+  {
+    "Code": "LFMO",
+    "Lieu": "ORANGE / CARITAT"
+  },
+  {
+    "Code": "LFOJ",
+    "Lieu": "ORLEANS / BRICY"
+  },
+  {
+    "Code": "LFOZ",
+    "Lieu": "ORLEANS / ST-DENIS-DE-L'HOTEL'"
+  },
+  {
+    "Code": "LFEC",
+    "Lieu": "OUESSANT"
+  },
+  {
+    "Code": "LFLK",
+    "Lieu": "OYONNAX / ARBENT"
+  },
+  {
+    "Code": "LFDJ",
+    "Lieu": "PAMIERS / LES PUJOLS"
+  },
+  {
+    "Code": "LFGN",
+    "Lieu": "PARAY LE MONIAL"
+  },
+  {
+    "Code": "LFPG",
+    "Lieu": "PARIS / CHARLES-DE-GAULLE"
+  },
+  {
+    "Code": "LFPI",
+    "Lieu": "PARIS / ISSY-LES-MOULINEAUX"
+  },
+  {
+    "Code": "LFPB",
+    "Lieu": "PARIS / LE BOURGET"
+  },
+  {
+    "Code": "LFPO",
+    "Lieu": "PARIS / ORLY"
+  },
+  {
+    "Code": "LFBP",
+    "Lieu": "PAU / PYRENEES"
+  },
+  {
+    "Code": "LFBX",
+    "Lieu": "PERIGUEUX / BASSILLAC"
+  },
+  {
+    "Code": "LFAG",
+    "Lieu": "PERONNES / ST QUENTIN"
+  },
+  {
+    "Code": "LFHC",
+    "Lieu": "PEROUGES / MEXIMIEUX"
+  },
+  {
+    "Code": "LFMP",
+    "Lieu": "PERPIGNAN / RIVESALTES"
+  },
+  {
+    "Code": "LFPA",
+    "Lieu": "PERSAN-BEAUMONT"
+  },
+  {
+    "Code": "LFIP",
+    "Lieu": "PEYRESOURDE-BALESTAS"
+  },
+  {
+    "Code": "LFNP",
+    "Lieu": "PEZENAS / NIZAS"
+  },
+  {
+    "Code": "LFQP",
+    "Lieu": "PHALSBOURG / BOURSCHEID"
+  },
+  {
+    "Code": "LFHD",
+    "Lieu": "PIERRELATTE"
+  },
+  {
+    "Code": "LFFP",
+    "Lieu": "PITHIVIERS"
+  },
+  {
+    "Code": "LFRP",
+    "Lieu": "PLOERMEL-LOYAT"
+  },
+  {
+    "Code": "LFBI",
+    "Lieu": "POITIERS / BIARD"
+  },
+  {
+    "Code": "LFCP",
+    "Lieu": "PONS / AVY"
+  },
+  {
+    "Code": "LFSP",
+    "Lieu": "PONTARLIER"
+  },
+  {
+    "Code": "LFED",
+    "Lieu": "PONTIVY"
+  },
+  {
+    "Code": "LFPT",
+    "Lieu": "PONTOISE / CORMEILLES-EN-VEXIN"
+  },
+  {
+    "Code": "LFND",
+    "Lieu": "PONT-ST-ESPRIT"
+  },
+  {
+    "Code": "LFSV",
+    "Lieu": "PONT-ST-VINCENT"
+  },
+  {
+    "Code": "LFGO",
+    "Lieu": "PONT-SUR-YONNE"
+  },
+  {
+    "Code": "LFEP",
+    "Lieu": "POUILLY-MACONGE"
+  },
+  {
+    "Code": "LFKO",
+    "Lieu": "PROPRIANO TAVARIA"
+  },
+  {
+    "Code": "LFTP",
+    "Lieu": "PUIMOISSON"
+  },
+  {
+    "Code": "LFNW",
+    "Lieu": "PUIVERT"
+  },
+  {
+    "Code": "LFEQ",
+    "Lieu": "QUIBERON"
+  },
+  {
+    "Code": "LFRQ",
+    "Lieu": "QUIMPER / PLUGUFFAN"
+  },
+  {
+    "Code": "LFER",
+    "Lieu": "REDON / BAINS-SUR-OUST"
+  },
+  {
+    "Code": "LFSR",
+    "Lieu": "REIMS / CHAMPAGNE"
+  },
+  {
+    "Code": "LFQA",
+    "Lieu": "REIMS / PRUNAY"
+  },
+  {
+    "Code": "LFRN",
+    "Lieu": "RENNES / ST-JACQUES"
+  },
+  {
+    "Code": "LFAP",
+    "Lieu": "RETHEL-PERTHES"
+  },
+  {
+    "Code": "LFIR",
+    "Lieu": "REVEL-MONTGEY"
+  },
+  {
+    "Code": "LFIK",
+    "Lieu": "RIBERAC-ST-AULAYE"
+  },
+  {
+    "Code": "LFIL",
+    "Lieu": "RION-DES-LANDES"
+  },
+  {
+    "Code": "LFLO",
+    "Lieu": "ROANNE / RENAISON"
+  },
+  {
+    "Code": "LFDN",
+    "Lieu": "ROCHEFORT / ST AGNANT"
+  },
+  {
+    "Code": "LFXR",
+    "Lieu": "ROCHEFORT / SOUBISE"
+  },
+  {
+    "Code": "LFCR",
+    "Lieu": "RODEZ / MARCILLAC"
+  },
+  {
+    "Code": "LFHE",
+    "Lieu": "ROMANS / ST-PAUL"
+  },
+  {
+    "Code": "LFQR",
+    "Lieu": "ROMILLY-SUR-SEINE"
+  },
+  {
+    "Code": "LFYR",
+    "Lieu": "ROMORANTIN / PRUNIERS"
+  },
+  {
+    "Code": "LFOP",
+    "Lieu": "ROUEN / VALLEE DE SEINE"
+  },
+  {
+    "Code": "LFCY",
+    "Lieu": "ROYAN / MEDIS"
+  },
+  {
+    "Code": "LFHF",
+    "Lieu": "RUOMS"
+  },
+  {
+    "Code": "LFIF",
+    "Lieu": "ST-AFFRIQUE-BELMONT"
+  },
+  {
+    "Code": "LFFD",
+    "Lieu": "ST-ANDRE-DE-L'EURE'"
+  },
+  {
+    "Code": "LFAZ",
+    "Lieu": "ST-BRIEUC"
+  },
+  {
+    "Code": "LFRT",
+    "Lieu": "ST-BRIEUC ARMOR"
+  },
+  {
+    "Code": "LFHG",
+    "Lieu": "ST-CHAMOND / L'HORME'"
+  },
+  {
+    "Code": "LFXI",
+    "Lieu": "ST-CHRISTOL"
+  },
+  {
+    "Code": "LFKZ",
+    "Lieu": "ST-CLAUDE-PRATZ"
+  },
+  {
+    "Code": "LFPZ",
+    "Lieu": "ST-CYR-L'ECOLE'"
+  },
+  {
+    "Code": "LFGY",
+    "Lieu": "ST-DIE / REMOMEIX"
+  },
+  {
+    "Code": "LFSI",
+    "Lieu": "ST-DIZIER / ROBINSON"
+  },
+  {
+    "Code": "LFDF",
+    "Lieu": "STE-FOY-LA-GRANDE"
+  },
+  {
+    "Code": "LFYS",
+    "Lieu": "STE-LEOCADIE"
+  },
+  {
+    "Code": "LFXB",
+    "Lieu": "SAINTES / THENAC"
+  },
+  {
+    "Code": "LFMH",
+    "Lieu": "ST-ETIENNE / BOUTHEON"
+  },
+  {
+    "Code": "LFNY",
+    "Lieu": "ST-ETIENNE-EN-DEVOLUY"
+  },
+  {
+    "Code": "LFGP",
+    "Lieu": "ST-FLORENTIN / CHEU"
+  },
+  {
+    "Code": "LFHQ",
+    "Lieu": "ST-FLOUR / COLTINES"
+  },
+  {
+    "Code": "LFKM",
+    "Lieu": "ST-GALMIER"
+  },
+  {
+    "Code": "LFIM",
+    "Lieu": "ST GAUDENS MONTREJEAU"
+  },
+  {
+    "Code": "LFCG",
+    "Lieu": "ST-GIRONS / ANTICHAN"
+  },
+  {
+    "Code": "LFIY",
+    "Lieu": "ST-JEAN-D'ANGELY'"
+  },
+  {
+    "Code": "LFKH",
+    "Lieu": "ST-JEAN-D'AVELANNE'"
+  },
+  {
+    "Code": "LFKE",
+    "Lieu": "ST-JEAN-EN-ROYAN"
+  },
+  {
+    "Code": "LFBJ",
+    "Lieu": "ST-JUNIEN"
+  },
+  {
+    "Code": "LFEO",
+    "Lieu": "ST-MALO / ST SERVAN"
+  },
+  {
+    "Code": "LFNL",
+    "Lieu": "ST-MARTIN DE LONDRES"
+  },
+  {
+    "Code": "LFRZ",
+    "Lieu": "ST-NAZAIRE / MONTOIR"
+  },
+  {
+    "Code": "LFQN",
+    "Lieu": "ST-OMER / WIZERNES"
+  },
+  {
+    "Code": "LFDP",
+    "Lieu": "ST-PIERRE D'OLERON'"
+  },
+  {
+    "Code": "LFVP",
+    "Lieu": "ST-PIERRE, ST-PIERRE-ET-MIQUELON"
+  },
+  {
+    "Code": "LFOW",
+    "Lieu": "ST-QUENTIN / ROUPY"
+  },
+  {
+    "Code": "LFLR",
+    "Lieu": "ST-RAMBERT D'ALBON'"
+  },
+  {
+    "Code": "LFYT",
+    "Lieu": "ST-SIMON / CLASTRES"
+  },
+  {
+    "Code": "LFOS",
+    "Lieu": "ST-VALERY / VITTEFLEUR"
+  },
+  {
+    "Code": "LFLN",
+    "Lieu": "ST-YAN"
+  },
+  {
+    "Code": "LFHZ",
+    "Lieu": "SALLANCHE-MONT-BLANC"
+  },
+  {
+    "Code": "LFMY",
+    "Lieu": "SALON"
+  },
+  {
+    "Code": "LFNE",
+    "Lieu": "SALON / EYGUIERES"
+  },
+  {
+    "Code": "LFDS",
+    "Lieu": "SARLAT / DOMME"
+  },
+  {
+    "Code": "LFGT",
+    "Lieu": "SARREBOURG / BUHL"
+  },
+  {
+    "Code": "LFGU",
+    "Lieu": "SARREGUEMINES / NEUNKIRCH"
+  },
+  {
+    "Code": "LFQU",
+    "Lieu": "SARRE-UNION"
+  },
+  {
+    "Code": "LFEW",
+    "Lieu": "SAULIEU-LIERNAIS"
+  },
+  {
+    "Code": "LFOD",
+    "Lieu": "SAUMUR / ST-FLORENT"
+  },
+  {
+    "Code": "LFQY",
+    "Lieu": "SAVERNE-STEINBOURG"
+  },
+  {
+    "Code": "LFSJ",
+    "Lieu": "SEDAN / DOUZY"
+  },
+  {
+    "Code": "LFGQ",
+    "Lieu": "SEMUR-EN-AUXOIS"
+  },
+  {
+    "Code": "LFTM",
+    "Lieu": "SERRES LA BATIE / MONSALEON"
+  },
+  {
+    "Code": "LFFZ",
+    "Lieu": "SEZANNE-ST-REMY"
+  },
+  {
+    "Code": "LFNS",
+    "Lieu": "SISTERON-THEZE"
+  },
+  {
+    "Code": "LFJS",
+    "Lieu": "SOISSONS / COURMELLES"
+  },
+  {
+    "Code": "LFAH",
+    "Lieu": "SOISSONS / CUFFIES"
+  },
+  {
+    "Code": "LFKS",
+    "Lieu": "SOLENZARA"
+  },
+  {
+    "Code": "LFKD",
+    "Lieu": "SOLLIERES-SARDIERES"
+  },
+  {
+    "Code": "LFDK",
+    "Lieu": "SOULAC-SUR-MER"
+  },
+  {
+    "Code": "LFST",
+    "Lieu": "STRASBOURG / ENTZHEIM"
+  },
+  {
+    "Code": "LFGC",
+    "Lieu": "STRASBOURG / NEUHOF"
+  },
+  {
+    "Code": "LFDT",
+    "Lieu": "TARBES / LALOUBERE"
+  },
+  {
+    "Code": "LFBT",
+    "Lieu": "TARBES / OSSUN - LOURDES"
+  },
+  {
+    "Code": "LFPJ",
+    "Lieu": "TAVERNY"
+  },
+  {
+    "Code": "LFGV",
+    "Lieu": "THIONVILLE / YUTZ"
+  },
+  {
+    "Code": "LFCT",
+    "Lieu": "THOUARS"
+  },
+  {
+    "Code": "LFET",
+    "Lieu": "TIL-CHATEL"
+  },
+  {
+    "Code": "LFSL",
+    "Lieu": "TOUL / ROSIERES"
+  },
+  {
+    "Code": "LFTR",
+    "Lieu": "TOULON / ST-MANDRIER"
+  },
+  {
+    "Code": "LFBO",
+    "Lieu": "TOULOUSE / BLAGNAC"
+  },
+  {
+    "Code": "LFIT",
+    "Lieu": "TOULOUSE-BOURG ST-BERNARD"
+  },
+  {
+    "Code": "LFBQ",
+    "Lieu": "TOULOUSE / ENAC"
+  },
+  {
+    "Code": "LFBF",
+    "Lieu": "TOULOUSE / FRANCAZAL"
+  },
+  {
+    "Code": "LFCL",
+    "Lieu": "TOULOUSE / LASBORDES"
+  },
+  {
+    "Code": "LFFX",
+    "Lieu": "TOUNUS-CUISERY"
+  },
+  {
+    "Code": "LFJT",
+    "Lieu": "TOURS LE LOUROUX"
+  },
+  {
+    "Code": "LFOT",
+    "Lieu": "TOURS / ST SYMPHORIEN"
+  },
+  {
+    "Code": "LFEN",
+    "Lieu": "TOURS / SORIGNY"
+  },
+  {
+    "Code": "LFPN",
+    "Lieu": "TOUSSUS-LE-NOBLE"
+  },
+  {
+    "Code": "LFQB",
+    "Lieu": "TROYES / BARBEREY"
+  },
+  {
+    "Code": "LFCU",
+    "Lieu": "USSEL / THALAMY"
+  },
+  {
+    "Code": "LFNU",
+    "Lieu": "UZES"
+  },
+  {
+    "Code": "LFLU",
+    "Lieu": "VALENCE / CHABEUIL"
+  },
+  {
+    "Code": "LFAV",
+    "Lieu": "VALENCIENNES / DENAIN"
+  },
+  {
+    "Code": "LFNV",
+    "Lieu": "VALREAS-VISAN"
+  },
+  {
+    "Code": "LFRV",
+    "Lieu": "VANNES / MEUCON"
+  },
+  {
+    "Code": "LFAU",
+    "Lieu": "VAUVILLE"
+  },
+  {
+    "Code": "LFIV",
+    "Lieu": "VENDAYS-MONTALIVET"
+  },
+  {
+    "Code": "LFGW",
+    "Lieu": "VERDUN / LE ROZELIER"
+  },
+  {
+    "Code": "LFQW",
+    "Lieu": "VESOUL-FROTEY"
+  },
+  {
+    "Code": "LFLV",
+    "Lieu": "VICHY / CHARMEIL"
+  },
+  {
+    "Code": "LFHH",
+    "Lieu": "VIENNE / REVENTIN"
+  },
+  {
+    "Code": "LFFV",
+    "Lieu": "VIERZON-MEREAU"
+  },
+  {
+    "Code": "LFPV",
+    "Lieu": "VILLACOUBLAY / VELIZY"
+  },
+  {
+    "Code": "LFCV",
+    "Lieu": "VILLEFRANCHE-DE-ROUERGUE"
+  },
+  {
+    "Code": "LFHV",
+    "Lieu": "VILLEFRANCHE / TARARE"
+  },
+  {
+    "Code": "LFCW",
+    "Lieu": "VILLENEUVE-SUR-LOT"
+  },
+  {
+    "Code": "LFAW",
+    "Lieu": "VILLERUPT"
+  },
+  {
+    "Code": "LFNF",
+    "Lieu": "VINON"
+  },
+  {
+    "Code": "LFQS",
+    "Lieu": "VITRY-EN-ARTOIS"
+  },
+  {
+    "Code": "LFSK",
+    "Lieu": "VITRY-LE-FRANCOIS / VAUCLERC"
+  },
+  {
+    "Code": "LFXC",
+    "Lieu": "VITTEL / AUZAINVILLIERS"
+  },
+  {
+    "Code": "LFSZ",
+    "Lieu": "VITTEL / CHAMP DE COURSES)"
+  },
+  {
+    "Code": "LOKL",
+    "Lieu": "LIENZ (Autriche)"
+  },
+  {
+    "Code": "LECI",
+    "Lieu": "JACA"
+  }
+]

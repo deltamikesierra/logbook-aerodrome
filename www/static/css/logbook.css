@@ -1,0 +1,22 @@
+/* TABLES */
+.table td, .table th {
+  padding: 0.3rem;
+}
+
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+  background-color:  #e6f3ff;
+}
+
+.table-responsive{
+  height:35rem;
+  width:100%;
+  overflow:scroll;
+}
+
+thead tr:nth-child(1) th{
+  background: white;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
