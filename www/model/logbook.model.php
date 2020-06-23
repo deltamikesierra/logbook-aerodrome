@@ -43,7 +43,7 @@ if (($logbook) && ($vols = $logbook['vols'])) {
 		$lines[] = array(
 			'number' => $number,
 			'immat' => $lb['Aeronef'],
-			'rfid' => $lb['RFID'],
+			'rfid' => ((strpos($lb['Aeronef'], 'X-') !== 0) ? $lb['RFID'] : ""),
 			'hdec' => $hdec,
 			'hatt' => $hatt,
 			'duree' => $duree,
