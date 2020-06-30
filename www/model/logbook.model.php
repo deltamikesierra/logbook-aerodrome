@@ -40,16 +40,35 @@ if (($logbook) && ($vols = $logbook['vols'])) {
 		$hatt = ($lb['Atterro']) ? hms_to_hm($lb['Atterro']) : "";
 		$duree = ($hatt) ? delta_hm($lb['Deco'], $lb['Atterro']) : "";
 
+		// if (in_array(000002, $flarm_id)) {
+		if ($i = array_search(substr($lb['RFID'], 3), $flarm_id)) {
+			$rfid = $lb['RFID'];
+			$immat = $flarm[$i]['immat'];
+		} else {
+			$immat = 'F-XXXX';
+			$rfid = 'xxxx';
+		}
+		if ($lb['Couple']) {
+			if ($i = array_search(substr($lb['Couple'], 3), $flarm_id)) {
+				$couplage = $flarm[$i]['immat'];
+			} else {
+				$couplage = 'F-XXXX';
+			}
+		} else {
+			$couplage = '';
+		}
+		// $rfid_c=((strpos($lb['Aeronef'], 'X-') !== 0) ? $lb['RFID'] : "xxxx");
+
 		$lines[] = array(
 			'number' => $number,
-			'immat' => $lb['Aeronef'],
-			'rfid' => ((strpos($lb['Aeronef'], 'X-') !== 0) ? $lb['RFID'] : ""),
+			'immat' => $immat,
+			'rfid' => $rfid,
 			'hdec' => $hdec,
 			'hatt' => $hatt,
 			'duree' => $duree,
 			'mode' => $lb['Mode'],
 			'largage' => $lb['HautLarg'] ? round($lb['HautLarg'] / 3) : "-",
-			'couplage' => $lb['Couple'] ? $lb['Couple'] : "-",
+			'couplage' => $couplage,
 		);
 	}
 }

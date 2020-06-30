@@ -1,5 +1,5 @@
 <?php
-$flarm = get_flarm();
+// $flarm = get_flarm();
 
 $lines = array();
 $number = 0;

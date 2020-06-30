@@ -41,7 +41,6 @@ ob_start();
         <thead>
           <tr>
             <th>N°</th>
-            <th>Id (flarm)</th>
             <th>Immat.</th>
             <th>Déc.</th>
             <th>Att.</th>
@@ -49,13 +48,13 @@ ob_start();
             <th>Mode</th>
             <th>Largage AGL (m)</th>
             <th>Couplage</th>
+            <th><span class="badge badge-pill badge-light">Id (flarm)</span></th>
           </tr>
         </thead>
         <tbody>
           <?php if (!empty($lines)) {foreach ($lines as $line) {?>
           <tr>
             <td><?=$line['number']?></td>
-            <td><?=$line['rfid']?></td>
             <td><?=$line['immat']?></td>
             <td><?=$line['hdec']?></td>
             <td><?=$line['hatt']?></td>
@@ -63,6 +62,7 @@ ob_start();
             <td><?=$line['mode']?></td>
             <td><?=$line['largage']?></td>
             <td><?=$line['couplage']?></td>
+            <td><span class="badge badge-pill badge-light"><?=$line['rfid']?></span></td>
           </tr>
           <?php }}?>
         </tbody>

@@ -6,5 +6,4 @@ require_once 'global/config.php';
 require_once 'global/files.php';
 require_once 'global/option_list.php';
 require_once 'global/import.php';
-
 ?>

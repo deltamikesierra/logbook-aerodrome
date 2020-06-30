@@ -6,6 +6,9 @@ try {
 	// INITIALISATION
 	if (empty($root)) {
 		require 'global/init.php';
+		$oaci = get_oaci();
+		$flarm = get_flarm();
+		$flarm_id = array_column($flarm, 'id_flarm');
 	}
 	// Méthode GET pour chargement des données par appel extérieur
 	if (isset($_GET['action'])) {

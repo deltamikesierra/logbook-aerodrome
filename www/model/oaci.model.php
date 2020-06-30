@@ -1,5 +1,4 @@
 <?php
-$oaci = get_oaci();
 
 $lines = array();
 $number = 0;
